@@ -1,0 +1,11 @@
+<div id="header" class="row">
+  <div class="logo columns eight">
+    <h1>Pedidos Remotos</h1>
+  </div>
+  <div class="other columns four">
+    <strong class="right">
+      <a class="btn_change_app_state button nice" data-other="Remote">Local</a>
+      <a class="btn_do_login button nice" data-other="Remote">Login</a>
+    </strong>
+  </div>
+</div>

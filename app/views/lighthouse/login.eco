@@ -1,0 +1,24 @@
+<h2>Credenciales de Ingreso</h2>
+<form class="nice">
+    <label>
+      <span>Email</span>
+      <input id="txt_email" autocomplete name="email" type="email"/>
+    </label>
+
+    <label>
+      <span>Token</span>
+      <input type="text" id="txt_token"/>
+    </label>
+
+    <label>
+      <span>Password</span>
+      <input type="password" id="txt_password"/>
+    </label>
+</form>
+
+  <div class="row">
+    <a class="nice button">Remoto</a>
+    <a class="nice button">Local</a>
+  </div>
+
+  <a class="close-reveal-modal">&#215;</a>
